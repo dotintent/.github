@@ -1,8 +1,10 @@
 # ℹ️ About us
 
 Intent helps to conceptualize, design, and build apps for connected devices.
-We have over _10_ years of experience in developing products at the intersection of physical and digital – from net-new to products looking to enter a competitive and established niche.
-Our clients include _Oura_, _BOSE_, and _McIntosh_ audio systems among others. [Learn more about work](https://withintent.com/about)!
+
+We have over **10** years of experience in developing products at the intersection of physical and digital – from net-new to products looking to enter a competitive and established niche.
+
+Our clients include **Oura**, **BOSE**, and **McIntosh** audio systems among others. [Learn more about work](https://withintent.com/about)!
 
 # 🤝 Open positions
 
